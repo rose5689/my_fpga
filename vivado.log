@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Thu Nov  7 23:22:50 2024
+# Process ID: 83508
+# Current directory: D:/FPGA/game/hdmi_game/project_3
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent81452 D:\FPGA\game\hdmi_game\project_3\project_3.xpr
+# Log file: D:/FPGA/game/hdmi_game/project_3/vivado.log
+# Journal file: D:/FPGA/game/hdmi_game/project_3\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/FPGA/game/hdmi_game/project_3/project_3.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/2018.3/data/ip'.
+open_project: Time (s): cpu = 00:00:14 ; elapsed = 00:00:06 . Memory (MB): peak = 886.551 ; gain = 222.883
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Nov  7 23:24:02 2024...
